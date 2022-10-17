@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickjurga
-- 👀 I’m interested in  le dévelopement web (front-end)
-- 🌱 I’m currently learning  le dévelop front-end chez openclassroums
+- 👀 I’m interested in web development (front-end)
+- 🌱 I’m currently learning web development (front-end) at openclassrooms
 - 📫 How to reach me  - jurga.patrick@gmail.com
 
 <!---
